@@ -10,6 +10,7 @@ namespace TupiniquimApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("teste");
         }
     }
 }
