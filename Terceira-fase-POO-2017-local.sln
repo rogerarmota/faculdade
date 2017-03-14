@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-20-02 (Robo estruturado)", "Aula-20-02 (Robo estruturado)", "{55D2C555-3E8B-4C91-9D93-18FE63E0ADE1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 20-02 (Robo estruturado)", "Aula 20-02 (Robo estruturado)", "{55D2C555-3E8B-4C91-9D93-18FE63E0ADE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Tupiniquim", "Projeto.Tupiniquim\Projeto.Tupiniquim.csproj", "{DACC8F81-F9C4-4765-A643-931EC4D9C3FA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-06-03 (Exercicios estruturados)", "Aula-06-03 (Exercicios estruturados)", "{80EDAF7E-FCEA-444A-AED9-33A1AD10D5C8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 06-03 (Exercicios estruturados)", "Aula 06-03 (Exercicios estruturados)", "{80EDAF7E-FCEA-444A-AED9-33A1AD10D5C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{20EFC370-4C81-421E-84A6-407DDEA0DD2E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-13-03 (Robo OO (Orientação Objeto))", "Aula-13-03 (Robo OO (Orientação Objeto))", "{70678B7F-5AED-4A9F-9E16-CDA41C3C50BC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 13-03 (Robo OO (Orientação Objeto))", "Aula 13-03 (Robo OO (Orientação Objeto))", "{70678B7F-5AED-4A9F-9E16-CDA41C3C50BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupiniquimApp", "TupiniquimApp\TupiniquimApp.csproj", "{FC8C833A-CD87-476C-9B35-0E40328ADF2C}"
 EndProject
