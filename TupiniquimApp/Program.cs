@@ -10,7 +10,13 @@ namespace TupiniquimApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("teste");
+            Robo robocop = new Robo();
+            robocop.posicaoX = 1;
+            robocop.posicaoY = 2;
+            robocop.direcao = 'N';
+            robocop.Explorer("EMEMEMEMM");
+            Console.WriteLine(robocop.ObtemPosicaoFinal());
+            Console.ReadKey();
         }
     }
 }
