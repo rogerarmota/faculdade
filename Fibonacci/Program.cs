@@ -11,8 +11,9 @@ namespace Fibonacci
         static void Main(string[] args)
         {
             Fibonacci fibonacci = new Fibonacci();
-            Console.WriteLine(fibonacci.calcularFibonacci(5));
-            Console.WriteLine(i);
+            Console.WriteLine(fibonacci.calcularFibonacci(8));
+
+            Console.ReadKey();
         }
     }
 }

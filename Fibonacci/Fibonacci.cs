@@ -12,21 +12,10 @@ namespace Fibonacci
         
         public  int calcularFibonacci(int posicao)
         {
-            if (posicao < fibonacci)
-            {
-                fibonacci = primeiroValor + segundoValor;
-                primeiroValor = segundoValor;
-                segundoValor = fibonacci;
-            }
-            else if (posicao >= fibonacci)
-            {
-                valor();
-            }
-        }
-
-        public int valor()
-        {
-            return fibonacci;
+            if (posicao <= 2)
+                return 1;
+            else
+                return calcularFibonacci(posicao - 1) + calcularFibonacci(posicao - 2);
         }
     }
 }
