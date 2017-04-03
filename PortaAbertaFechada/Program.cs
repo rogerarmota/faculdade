@@ -26,7 +26,7 @@ namespace PortaAbertaFechada
             {
                 porta.aberta = true;
             }
-            else if (abrirFechar.Equals(20))
+            else if (abrirFechar.Equals(2))
             {
                 porta.aberta = false;
             }
