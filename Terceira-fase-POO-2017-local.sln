@@ -49,6 +49,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prova", "Prova", "{A27A0513
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{A0A64B24-8C2C-44E6-98A2-DA3815E5541C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 10-04 (Private-Propriedades-Encapsulamento-Interfoce Publica da Classe-Static-Metodo Construtor)", "Aula 10-04 (Private-Propriedades-Encapsulamento-Interfoce Publica da Classe-Static-Metodo Construtor)", "{094B0A3E-AC7A-4FF5-A8F4-BB0656F2026C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
